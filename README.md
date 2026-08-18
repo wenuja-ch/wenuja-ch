@@ -18,7 +18,6 @@
 - 🌐 Interested in **Software Development & Web Technologies**
 - 🚀 Currently working on exciting projects
 - 🌱 Always learning and improving my skills
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
