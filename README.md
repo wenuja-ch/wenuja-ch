@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Wenuja
 
 ### 💻 Computer Science Undergraduate | 🤖 AI & Machine Learning Enthusiast | 📱 Software Developer
 
